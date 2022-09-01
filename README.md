@@ -129,7 +129,7 @@ This manner of displaying numerical data is called a
 [histogram](https://en.wikipedia.org/wiki/Histogram). How will you create your
 histogram? There are a few ways!
 
-- You can need to iterate over the `@@genres` array and populate a hash with the
+- You will need to iterate over the `@@genres` array and populate a hash with the
   key/value pairs. You will need to check to see if the hash already contains a
   key of a particular genre. If so, increment the value of that key by one,
   otherwise, create a new key/value pair.
